@@ -1,1 +1,1 @@
-# Week-1-_Garbage_Classification
+# Garbage_Classification_prject
