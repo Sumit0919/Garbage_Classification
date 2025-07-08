@@ -1,1 +1,1 @@
-# Garbage_Classification_prject
+# Garbage_Classification_prject using efficientNetb2v2
